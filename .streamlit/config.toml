@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#146bf7"         # cor dos botões e destaque
+backgroundColor = "#ffffff"      # cor de fundo da página
+secondaryBackgroundColor = "#d4f1ff"  # fundo da barra lateral
+textColor = "#121212"            # cor do texto
